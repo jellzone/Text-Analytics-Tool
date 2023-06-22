@@ -1,7 +1,7 @@
 # Text-Analytics-Tool
 This is a Python program designed to perform comprehensive text analysis on input data stored in an Excel file. The analysis includes keyword density calculation, content analysis with multiple metrics, sentence level analysis, and sentiment analysis.
 
-[中文版](README.CN)
+[中文版](README.CN.md)
 
 # Installation
 Make sure Python is installed on your machine. This program was developed using Python 3.10, but it should work with any version newer than 3.6.
