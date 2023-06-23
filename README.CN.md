@@ -26,5 +26,7 @@ python text_analytics_tool.py input.xlsx output.xlsx
 
 这将从input.xlsx中读取输入数据，执行分析，并将结果写入output.xlsx。
 
+如果用上面代码运行，目录里面放一个your_file.xlsx 然后运行程序也可以的
+
 # 贡献
 我们欢迎对此项目的贡献。请用你的更改提交一个拉取请求（pull request）。
