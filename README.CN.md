@@ -8,18 +8,22 @@
 
 使用pip安装必要的Python包：
 
-Copy code
+```
 pip install nltk openpyxl textstat
+```
 下载必要的NLTK数据：
 
-Copy code
+```
 python -m nltk.downloader vader_lexicon punkt averaged_perceptron_tagger
+```
+
 # 使用
 该程序需要一个包含文本数据进行分析的Excel文件。这是一个简单的使用示例：
 
-shell
-Copy code
+```
 python text_analytics_tool.py input.xlsx output.xlsx
+```
+
 这将从input.xlsx中读取输入数据，执行分析，并将结果写入output.xlsx。
 
 # 贡献
